@@ -1,6 +1,7 @@
 [![CircleCI](https://circleci.com/gh/noahgift/pragmaticai.svg?style=svg)](https://circleci.com/gh/noahgift/pragmaticai)
 # Pragmatic AI:  An Introduction To Cloud-based Machine Learning
 
+![pai](https://user-images.githubusercontent.com/58792/37258262-633deaa6-2532-11e8-8c6f-b020ea1caae5.png)
 
 ## Juypter Notebooks
   * [Social Power NBA](https://github.com/noahgift/pragmaticai/tree/master/chapter7/notebooks)
