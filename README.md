@@ -3,5 +3,9 @@
 
 ![pai](https://user-images.githubusercontent.com/58792/37258262-633deaa6-2532-11e8-8c6f-b020ea1caae5.png)
 
+# Book Resources
+
+* Buy Book [Amazon Pragmatic AI](https://www.amazon.com/Pragmatic-AI-Introduction-Cloud-based-Learning/dp/0134863860)
+
 ## Juypter Notebooks
   * [Social Power NBA](https://github.com/noahgift/pragmaticai/tree/master/chapter7/notebooks)
