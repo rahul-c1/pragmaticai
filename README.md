@@ -26,7 +26,16 @@
 ## Book Chapter Juypter Notebooks
 
 * [Chapter 1: Introduction to Pragmatic AI](https://github.com/noahgift/functional_intro_to_python/tree/master/notebooks)
-* [Chapter 7: Social Power NBA](https://github.com/noahgift/pragmaticai/tree/master/chapter7/notebooks)
+* [Chapter 2:  AI & ML Toolchain]
+* [Chapter 3:  Spartan AI Lifecyle]
+* [Chapter 4:  Cloud AI Development with Google Cloud Platform]
+* [Chapter 5:  Cloud AI Development with Amazon Web Services]
+* [Chapter 6: Social Power NBA](https://github.com/noahgift/pragmaticai/tree/master/chapter7/notebooks)
+* [Chapter 7:  Creating an Intelligent Slack Bot on AWS]
+* [Chapter 8:  Production AI for User Generated Content (UGC)]
+* [Chapter 9:  Finding Project Management Insights from A Github Organization]
+* [Chapter 10:  Dynamically Optimizing EC2 Instances on AWS]
+* [Chapter 11:  Real Estate]
 
 ### License
 
