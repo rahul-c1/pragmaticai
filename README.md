@@ -5,7 +5,8 @@
 
 # Book Resources
 
-*[Buy Pragmatic AI](https://www.amazon.com/Pragmatic-AI-Introduction-Cloud-based-Learning/dp/0134863860)
+* [Buy Pragmatic AI](https://www.amazon.com/Pragmatic-AI-Introduction-Cloud-based-Learning/dp/0134863860)
 
-## Juypter Notebooks
-  * [Social Power NBA](https://github.com/noahgift/pragmaticai/tree/master/chapter7/notebooks)
+## Book Chapter Juypter Notebooks
+
+* [Social Power NBA](https://github.com/noahgift/pragmaticai/tree/master/chapter7/notebooks)
