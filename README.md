@@ -25,7 +25,7 @@
 
 ## Book Chapter Juypter Notebooks
 
-* [Social Power NBA](https://github.com/noahgift/pragmaticai/tree/master/chapter7/notebooks)
+* [Chapter 7: Social Power NBA](https://github.com/noahgift/pragmaticai/tree/master/chapter7/notebooks)
 
 ### License
 
