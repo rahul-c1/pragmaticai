@@ -25,6 +25,7 @@
 
 ## Book Chapter Juypter Notebooks
 
+* [Chapter 1: Introduction to Pragmatic AI] (https://github.com/noahgift/functional_intro_to_python/tree/master/notebooks)
 * [Chapter 7: Social Power NBA](https://github.com/noahgift/pragmaticai/tree/master/chapter7/notebooks)
 
 ### License
