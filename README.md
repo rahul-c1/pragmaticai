@@ -9,7 +9,7 @@
 
 ## About
 
-*Pragmatic AI* is the first truly practical guide to solving real-world problems with contemporary machine learning, artificial intelligence, and cloud computing tools. Writing for business professionals, decision-makers, and students who aren’t professional data scientists, Noah Gift demystifies all the tools and technologies you need to get results. He illuminates powerful off-the-shelf cloud-based solutions from Google, Amazon, and Microsoft, as well as accessible techniques using Python and R. Throughout, you’ll find simple, clear, and effective working solutions that show how to apply machine learning, AI and cloud computing together in virtually any organization, creating solutions that deliver results, and offer virtually unlimited scalability. Coverage includes:
+*Pragmatic AI* is the first truly practical guide to solving real-world problems with contemporary machine learning, artificial intelligence, and cloud computing tools. Writing for business professionals, decision-makers, and students who aren’t professional data scientists, [Noah Gift](http://noahgift.com/) demystifies all the tools and technologies you need to get results. He illuminates powerful off-the-shelf cloud-based solutions from Google, Amazon, and Microsoft, as well as accessible techniques using Python and R. Throughout, you’ll find simple, clear, and effective working solutions that show how to apply machine learning, AI and cloud computing together in virtually any organization, creating solutions that deliver results, and offer virtually unlimited scalability. Coverage includes:
 
 * Getting and configuring all the tools you’ll need
 * Quickly and efficiently deploying AI applications using spreadsheets, R, and Python
