@@ -26,3 +26,11 @@
 ## Book Chapter Juypter Notebooks
 
 * [Social Power NBA](https://github.com/noahgift/pragmaticai/tree/master/chapter7/notebooks)
+
+### License
+
+This code is released under the MIT license
+
+### Text
+
+The text content of the book is released under the CC-BY-NC-ND license
