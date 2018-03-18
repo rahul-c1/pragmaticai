@@ -29,13 +29,13 @@
 * [Chapter 2:  AI & ML Toolchain]
 * [Chapter 3:  Spartan AI Lifecyle]
 * [Chapter 4:  Cloud AI Development with Google Cloud Platform]
-* [Chapter 5:  Cloud AI Development with Amazon Web Services]
+* [Chapter 5:  Cloud AI Development with Amazon Web Services](https://github.com/noahgift/pai-aws)
 * [Chapter 6: Social Power NBA](https://github.com/noahgift/pragmaticai/tree/master/chapter7/notebooks)
 * [Chapter 7:  Creating an Intelligent Slack Bot on AWS]
 * [Chapter 8:  Finding Project Management Insights from A Github Organization]
 * [Chapter 9:  Dynamically Optimizing EC2 Instances on AWS]
 * [Chapter 10:  Real Estate]
-* [Chapter 11:  Production AI for User Generated Content (UGC)](https://github.com/noahgift/pai-aws)
+* [Chapter 11:  Production AI for User Generated Content (UGC)]
 
 ### License
 
