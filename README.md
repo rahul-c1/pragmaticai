@@ -43,4 +43,4 @@ This code is released under the MIT license
 
 ### Text
 
-The text content of the book is released under the CC-BY-NC-ND license
+The text content of notebooks is released under the CC-BY-NC-ND license
